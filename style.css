@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #d8c4c4;
+  color: #333;
+
+  }
+   
+  header {
+    background-color: #0e3d72;
+    color: hsl(0, 28%, 95%);
+    padding: 20px;
+    text-align:
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align:start;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+    
+  }
+  
+  nav a {
+    color: #f7efef;
+    text-decoration: none;
+  }
+
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #intro {
+    text-align: center;
+  }
+  
+  #intro h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #intro p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    
+
+  }
+  
+  #experience {
+    background-color: #e18d8d;
+    padding: 40px;
+
+  }
+
+  .experience-box {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #0ee2477a;
+    border: 1px solid #151414;
+    border-radius: 5px;
+    text-align:
+  }
+  
+  #projects {
+    margin-top: 50px;
+  }
+  
+  #projects h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #projects ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #projects li {
+    flex-basis: 30%;
+  }
+  
+  #projects img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  #projects h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  
+  #contact {
+    margin-top: 50px;
+  }
+  
+  #contact h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #contact form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #contact label {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  #contact input,
+  #contact textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #contact button {
+    background-color: #0784b6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .button {
+    background-color: #07181c;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color: #0acd7c;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
